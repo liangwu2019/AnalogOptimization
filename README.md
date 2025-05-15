@@ -5,6 +5,8 @@ We made up for the lack of theory in analog optimization: introducing (1) the Ho
 
 $k=\frac{\pi}{2T_p}$.
 
+## Feasible cases
 
+## Infeasible cases
 
 ![image](https://github.com/user-attachments/assets/6c352cf8-8d5f-4f6b-b63d-3d6c0bc3cf97)
