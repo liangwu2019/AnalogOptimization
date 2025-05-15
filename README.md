@@ -11,5 +11,5 @@ The LP_Infeasible.ipynb, QP_Infeasible.ipynb, and NLP_Infeasible.ipynb files are
 
 ## Infeasible cases
 The LP_Feasible.ipynb, QP_Feasible.ipynb, and NLP_Feasible.ipynb files are used to demonstrate the infeasibility detection capability.
+![image](https://github.com/user-attachments/assets/12369910-f83b-47b6-8d49-e23163102f85)
 
-![image](https://github.com/user-attachments/assets/6c352cf8-8d5f-4f6b-b63d-3d6c0bc3cf97)
