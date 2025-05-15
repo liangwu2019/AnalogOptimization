@@ -5,7 +5,7 @@ We made up for the lack of theory in analog optimization: introducing (1) the Ho
 
 $k=\frac{\pi}{2T_p}$.
 
-We consider a convex NLP $\min_{x\in\mathbb{R}^n}\quad f(x), s.t.\quad x\geq0, \quad g_i(x)\leq0, i=1,\cdots,m$.
+We consider a convex NLP $\min_{x\in\mathbb{R}^n}\quad f(x), s.t.\quad x\geq0, \quad g_i(x)\leq0, i=1,\cdots,m$, including linear programming (LP) and quadratic programming (QP).
 
 
 ## Feasible cases
