@@ -5,7 +5,7 @@ We made up for the lack of theory in analog optimization: introducing (1) the Ho
 
 $k=\frac{\pi}{2T_p}$.
 
-We consider a convex NLP $\min_{x\in\mathbb{R}^n}&~f(x), \text{s.t.}~ g_i(x)\leq0,\ \ i=1,\cdots,m, x\geq0$
+We consider a convex NLP $\min_{x\in\mathbb{R}^n} f(x), s.t. ~ g_i(x)\leq0,\ \ i=1,\cdots,m, x\geq0$
 
 
 ## Feasible cases
