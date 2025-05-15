@@ -6,7 +6,7 @@ We made up for the lack of theory in analog optimization: introducing (1) the Ho
 We consider a convex NLP $\min_{x\in\mathbb{R}^n}\quad f(x), s.t.\quad x\geq0, \quad g_i(x)\leq0, i=1,\cdots,m$, including linear programming (LP) and quadratic programming (QP). 
 
 ## Feasible cases
-The LP_Infeasible.ipynb, QP_Infeasible.ipynb, and NLP_Infeasible.ipynb files are used to demonstrate the infeasibility detection capability. 
+The LP_Infeasible.ipynb, QP_Infeasible.ipynb, and NLP_Infeasible.ipynb files are used to demonstrate the infeasibility detection capability, and the results show that the infeasibility detection rates for all cases are 100% (details are in the original manuscript).
 
 ## Infeasible cases
 The LP_Feasible.ipynb, QP_Feasible.ipynb, and NLP_Feasible.ipynb files are used to demonstrate the infeasibility detection capability.
