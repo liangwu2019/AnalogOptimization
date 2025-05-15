@@ -7,6 +7,7 @@ We consider a convex NLP $\min_{x\in\mathbb{R}^n}\quad f(x), s.t.\quad x\geq0, \
 
 ## Feasible cases
 The LP_Infeasible.ipynb, QP_Infeasible.ipynb, and NLP_Infeasible.ipynb files are used to demonstrate the infeasibility detection capability, and the results show that the infeasibility detection rates for all cases are 100% (details are in the original manuscript).
+![image](https://github.com/user-attachments/assets/2ca492fc-76fa-4017-be82-ee27698a0210)
 
 ## Infeasible cases
 The LP_Feasible.ipynb, QP_Feasible.ipynb, and NLP_Feasible.ipynb files are used to demonstrate the infeasibility detection capability.
