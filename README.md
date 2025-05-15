@@ -3,7 +3,7 @@ This repository is for our submission "Arbitrarily Small Execution-Time Certific
 
 We made up for the lack of theory in analog optimization: introducing (1) the Homogeneous Monotone Complementary Problem formulation and (2) the Newton-based fixed-time-stable scheme, making the equilibrium time $T_p$ of the transformed ODE can be prescribed by choosing the ODE's time coefficient as 
 
-$k=\frac{\pi}{2T_p}$.
+$\mathbf{k=\frac{\pi}{2T_p}}$.
 
 We consider a convex NLP $\min_{x\in\mathbb{R}^n}\quad f(x), s.t.\quad x\geq0, \quad g_i(x)\leq0, i=1,\cdots,m$, including linear programming (LP) and quadratic programming (QP).
 
